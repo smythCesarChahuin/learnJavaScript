@@ -1,5 +1,5 @@
   import { seeYouLastName } from "./namYlastnam.js";
-  let name = 'abigail'
+  let name = 'julio'
   let alumnos = [
     {
         name: "adriana",
