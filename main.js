@@ -2,7 +2,7 @@
   let name = 'abigail'
   let alumnos = [
     {
-        name: "abigail",
+        name: "adriana",
         lastName: "chahuin"
     },
     {
